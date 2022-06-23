@@ -1,0 +1,21 @@
+1.
+Column Chart: Column charts are typically used to compare several items in a specific range of values.
+2.
+ Compound interest causes wealth to grow faster. It makes a sum of money grow at a faster rate than simple interest 
+because it will earn returns on the money you invest,
+ as well as on returns at the end of every compounding period.
+3.
+NumPy has a numpy. histogram() function that is a graphical representation of the frequency distribution of data.
+ Rectangles of equal horizontal size corresponding to class interval called bin and variable height corresponding to frequency.
+4.
+The data aspect ratio is the relative length of the data units along the x-axis, y-axis, and z-axis. You can change the aspect ratio using the daspect function. 
+Set the ratio as a three-element vector of positive values that represent the relative lengths of data units along each axis.
+5.
+np.matmul(array a, array b)	Returns matrix product of two given arrays
+np.multiply(array a, array b)	Returns element-wise multiplication of two given arrays
+np.dot(array a, array b)	Returns scalar or dot product of two given arrays
+6.
+MT, one of the financial functions, calculates the payment for a loan based on constant payments and a constant interest rate.
+By  Using the Excel Formula Coach to figure out a monthly loan payment.
+7.
+ A numpy array can store different data String, Integer, Complex, Float, Boolean.
